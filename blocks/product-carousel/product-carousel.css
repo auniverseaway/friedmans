@@ -1,0 +1,11 @@
+.product-carousel {
+    position: relative;
+    overflow: hidden;
+    width: 600px;
+    height: 600px;
+}
+
+.carousel-picture {
+    position: absolute;
+    z-index: -1;
+}
